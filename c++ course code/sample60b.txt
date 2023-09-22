@@ -1,0 +1,2 @@
+ cout << this->legs << "" << this->nose << "" << this->eyes << "" << this->ears;
+    }
